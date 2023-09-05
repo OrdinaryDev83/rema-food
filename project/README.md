@@ -1,6 +1,7 @@
 <p align="center">
     <img width="721" alt="cover-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tom%27s_Restaurant%2C_NYC.jpg/1280px-Tom%27s_Restaurant%2C_NYC.jpg">
 </p>
+
 ## Data
 
 There are ~$10,000$ customers in the test set. These are the customers you will need to recommend a vendor to. Each customer can order from multiple locations, identified by the variable `LOC_NUM`.
